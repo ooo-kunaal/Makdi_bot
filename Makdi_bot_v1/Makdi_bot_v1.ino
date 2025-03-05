@@ -27,6 +27,7 @@ void setup() {
 }
 
 void loop() {
+  // Call movements as needed
   // forward();
   // backward();
   // right();
@@ -40,10 +41,10 @@ void home() {
   servo4.write(135);
   servo6.write(135);
   servo8.write(45);
-  delay(100);
+  delay(100); // stabalize
   // initialize legs to stand
   stand();
-  delay(250);
+  delay(250); // stabalize
 }
 
 void sleep() {
