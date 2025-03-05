@@ -5,3 +5,6 @@ Worflow -
 2. Using MediaPipe Hands, various gestures are captured & processed. The output of this processing are servo motor angles for the robot arm.
 3. The python script communicates the servo angles to ESP32 via HTTP Requests over wifi.
 
+![hand_landmarks](https://github.com/user-attachments/assets/55094157-03ae-40a6-a4b7-5b7700c81e22)
+
+![Screenshot 2025-03-05 180832](https://github.com/user-attachments/assets/c5decde5-7cac-414d-8061-61153ed0edc8)
