@@ -1,7 +1,6 @@
 # Makdi_bot
 
-![Uploading hello.gif…]()
-
+![hello](https://github.com/user-attachments/assets/0aee235a-b844-4836-bc0e-8ba156cb6fd5)
 
 ------------------------
 Version Control List
