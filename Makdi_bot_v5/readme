@@ -1,0 +1,2 @@
+Version 5 is all about Gesture Recognition & Control of the Robot Arm - recorded using laptop's webcam & processed via Mediapipe Hands & OpenCV. The ESP32 recieves commands (servo angles) via HTTP Requests from the python running on my laptop.
+
